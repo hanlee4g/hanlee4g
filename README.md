@@ -1,4 +1,4 @@
-- My name is Han and I am a 3rd-year undergrad at Northwestern studying Computer Science
+- My name is Han and I am a 3rd-year undergrad at Northwestern studying Computer Science. I'm originally from the Bay Area.
 
 - Professionally, I was (1) a software / electrical engineering intern at Soundskrit where I worked on directional MEMS microphones, (2) a STEP (software engineering) intern at Google where I worked on their data privacy team, and (3) an Operations Associate at Techstars Chicago, a startup accelerator. I am also building https://joininbound.com/, an early career talent sourcing platform built around diversity-based and talent-based student groups.
 
