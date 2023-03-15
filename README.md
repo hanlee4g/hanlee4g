@@ -1,8 +1,17 @@
-- My name is Han and I am a 3rd-year Computer Science undergrad at Northwestern University in Evanston, IL. I'm originally from the Bay Area.
+- My name is Han and I am a 3rd-year Computer Science undergrad at Northwestern University. I'm originally from the Bay Area.
 
-- Professionally, I was (1) a software / electrical engineering intern at Soundskrit where I worked on directional MEMS microphones, (2) a STEP (software engineering) intern at Google where I worked on their data privacy team, and (3) an Operations Associate at Techstars Chicago, a startup accelerator. I am also building https://joininbound.com/, an early career talent sourcing platform built around diversity-based and talent-based student groups.
+- Professionally, I have experience as...
+  * a software / electrical engineering intern at **Soundskrit** where I worked on directional MEMS microphones
+  * a STEP (software engineering) intern at **Google** where I worked on their data privacy team
+  * an Operations Associate at **Techstars** Chicago, a startup accelerator
 
-- Academically, I am interested in software development and machine learning. I am also very interested in philosophy.
+- Project-wise...
+  * I lead a team of 10 people (8 engineers) in building https://joininbound.com/, an early career talent sourcing platform built around diversity-based and talent-based student groups.
+  * I simulated evolution through [this project]([url](https://github.com/hanlee4g/mybots)).
+
+- Academically...
+  * I am interested in scalable software development and machine learning
+  * I am also very interested in philosophy
 
 - You can reach me at hanlee4g@gmail.com
 <!---
