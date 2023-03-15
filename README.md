@@ -2,8 +2,7 @@
 
 - Professionally, I have experience as...
   * a software / electrical engineering intern at **Soundskrit** where I worked on directional MEMS microphones
-  * a STEP (software engineering) intern at **Google** where I worked on privacy governance engineering
-> I will be returning in Summer 2023 as a SWE Intern on Google Cloud Platform (GCP)
+  * a STEP (software engineering) intern at **Google** where I worked on privacy governance engineering. I am returning in Summer 2023 as a Software Engineering Intern on Google Cloud Platform (GCP)
   * an Operations Associate at **Techstars** Chicago, a startup accelerator
 
 - Project-wise...
