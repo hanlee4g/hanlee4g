@@ -12,6 +12,7 @@ My name is Han and I am a 3rd-year Computer Science undergrad at Northwestern Un
 
 - Academically...
   * I am interested in scalable software development and machine learning.
+   * Selected Coursework: CS310 Scalable Software Architectures, CS349 Machine Learning,  CS449 Deep Learning, CS397 Computational Linguistics, CS396 Web Development
   * I am also very interested in philosophy.
 
 _You can reach me at hanlee4g@gmail.com_
