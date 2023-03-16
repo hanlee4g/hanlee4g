@@ -8,6 +8,7 @@ My name is Han and I am a 3rd-year Computer Science undergrad at Northwestern Un
 - Project-wise...
   * I lead a team of 10 people (8 engineers) in building https://joininbound.com/, an early career talent sourcing platform built around diversity-based and talent-based student groups.
   * I simulated evolution to make robots that run really fast through [this project](https://github.com/hanlee4g/mybots).
+  * I was one of 3 authors for a [guide on security and privacy for tech startups](https://github.com/hanlee4g/startup-security-privacy).
 
 - Academically...
   * I am interested in scalable software development and machine learning.
