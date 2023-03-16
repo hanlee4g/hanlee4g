@@ -11,8 +11,12 @@ My name is Han and I am a 3rd-year Computer Science undergrad at Northwestern Un
   * I was one of 3 authors for a [guide on security and privacy for tech startups](https://github.com/hanlee4g/startup-security-privacy).
 
 - Academically...
-  * I am interested in scalable software development and machine learning.
-    * Selected Coursework: CS310 Scalable Software Architectures, CS349 Machine Learning,  CS449 Deep Learning, CS397 Computational Linguistics, CS396 Web Development
+  * I am interested in scalable software development and machine learning. My coursework highlights are below:
+    * CS310 Scalable Software Architectures
+    * CS349 Machine Learning
+    * CS449 Deep Learning
+    * CS397 Computational Linguistics
+    * CS396 Web Development
   * I am also very interested in philosophy.
 
 _You can reach me at hanlee4g@gmail.com_
