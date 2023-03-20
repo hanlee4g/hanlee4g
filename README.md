@@ -19,8 +19,6 @@ My name is Han and I am a 3rd-year Computer Science undergrad at Northwestern Un
     * CS396: Web Development
   * I am also very interested in philosophy.
 
-Check out my [blog](https://leehanjune.blogspot.com/)!
-
 _You can reach me at hanlee4g@gmail.com_
 <!---
 hanlee4g/hanlee4g is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
